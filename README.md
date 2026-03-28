@@ -1,7 +1,7 @@
 ## Hi there 👋
 AI Engineering Student | Tackling Cybersecurity Challenges with Everyday Progress
 
-4th-year State Engineering student in AI Engineering at Université Saida - Moulay El Kheïr. Passionate about harnessing AI to solve real-world problems, especially in cybersecurity—from threat detection models to secure data pipelines.
+4th-year State Engineering student in AI Engineering at Université Saida - Moulay El Taher. Passionate about harnessing AI to solve real-world problems, especially in cybersecurity—from threat detection models to secure data pipelines.
 
 I live by the motto: "Little progress every day makes a big change along the way." 🚀
 
